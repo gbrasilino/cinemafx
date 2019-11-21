@@ -1,0 +1,2 @@
+GET http://localhost:8080/filme/listar-filmes HTTP/1.1
+Authorization: Basic beto admin
